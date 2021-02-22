@@ -1,0 +1,39 @@
+
+h1{
+   color: rgb(241, 54, 54);
+}
+img {
+    float:left; 
+	width:210px;
+	padding-right: 10px;
+}
+body{
+	background-color:#b9e2dd
+}
+
+#section2{
+   
+    width: 30%;
+    float:left;
+    margin-left:30px;
+   
+
+}
+#section3{
+    
+    border-radius: 20px;
+    border: 2px;
+    width: 30%;
+    float:left;
+
+}
+#section4{
+  
+    border-radius: 20px;
+    border: 2px;
+    width: 20%;
+    float:left;
+    padding-left: 30px;
+    margin-left:55px
+}
+
